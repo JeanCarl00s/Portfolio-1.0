@@ -10,9 +10,20 @@
 
     margin: auto;
     margin-top: 40px;
+
+    text-decoration: none;
 }   
 
 .botao a {
     color: #ffff;
+    text-decoration: none;
+}
+
+.botao p {
+    font-family: 'Inter', sans-serif;
+    font-size: 1rem;
+    font-weight: 600;
+    color: #fff; 
+
     text-decoration: none;
 }
